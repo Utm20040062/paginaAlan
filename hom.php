@@ -1,3 +1,7 @@
+<?php
+  session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,7 +26,7 @@
           <li><a href="#home">Home</a></li>
           <li><a href="#products">Products</a></li>
           <li><a href="#support">Support</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="salir.php">Salir</a></li>
         </ul>
         <div class="menu-bar">
           <i class="fas fa-bars" id="menu-bar"></i>
@@ -31,7 +35,7 @@
     </header>
   <!--MAIN SECTION -->
     <main class="main">
-      <div class="content-info"  data-aos="fade-right" data-aos-duration="2000">
+      <div class="content-info">
         <h1 class="display-1">this is the title</h1>
         <h3>place your slogan here...</h3>
         <div class="button-content">
@@ -39,14 +43,14 @@
           <button class="read-more">Read more</button>
         </div>
       </div>
-      <img src="./img/imagen principal.png" alt="" data-aos="fade-left"  data-aos-duration="2000">
+      <img src="./img/imagen principal.png" alt="">
     </main>
   </div>
   <!--ABOUT SECTION -->
   <section class="about">
     <h2>About us</h2>
     <div class="divider"></div>
-    <div class="about-content"  data-aos="fade-up" data-aos-duration="2000">
+    <div class="about-content"   data-aos-duration="2000">
       <img src="./img/second.png" alt="">
       <div class="about-info">
         <h3>Place your title here</h3>
@@ -61,7 +65,7 @@
   <section class="products" id="products">
     <h2>Products</h2>
     <div class="divider"></div>
-    <div class="container-products" data-aos="fade-up" data-aos-duration="2000">
+    <div class="container-products" data-aos-duration="">
       <article>
         <img src="./img/productos/190198828613-1-sx-removebg-preview 1.png" alt="">
         <div class="content-product-info">

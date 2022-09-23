@@ -20,16 +20,19 @@ body {
   height: 100vh;
   background-image: url(https://res.cloudinary.com/michaelxk-com/image/upload/v1632803252/img%20headphone/vector-1_i0da0y.png);
   max-width: 100%;
+  
 }
 
 .navbar {
   display: grid;
   grid-template-columns: repeat(9, 1fr);
   padding: 30px;
+ 
 }
 
 .navbar .brand {
   color: #f7b733;
+
 }
 
 .navbar .menu {
@@ -47,7 +50,7 @@ body {
   text-decoration: none;
   margin-right: 3em;
   font-size: 1.3em;
-  color: #fff;
+  color: #000;
   font-weight: 200;
   padding: 10px 20px;
 }
@@ -59,6 +62,7 @@ body {
 
 .menu-bar {
   display: none;
+  
 }
 
 /* MAIN SECTION */
@@ -67,6 +71,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  background-color: antiquewhite;
 }
 
 .content-info {
