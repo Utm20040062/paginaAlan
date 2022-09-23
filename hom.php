@@ -8,7 +8,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Xk-headphones</title>
+  <title>IOT</title>
   <link rel="stylesheet" href="./css/front.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <header>
       <nav class="navbar">
         <div class="brand">
-          <h2>XK</h2>
+          <h2>IOT</h2>
         </div>
         <ul class="menu" id="menu">
           <li><a href="#home">Home</a></li>
@@ -36,25 +36,23 @@
   <!--MAIN SECTION -->
     <main class="main">
       <div class="content-info">
-        <h1 class="display-1">this is the title</h1>
-        <h3>place your slogan here...</h3>
+        <h1 class="display-1">Welcom to the IOT</h1>
+        <h3>​The Internet of Things describes physical objects with sensors, processing power, software and other technologies that connect and exchange data with other devices and systems via the Internet or other communication networks.</h3>
         <div class="button-content">
-          <button class="btn-toBuy">Buy Now</button>
-          <button class="read-more">Read more</button>
         </div>
       </div>
-      <img src="./img/imagen principal.png" alt="">
+      <img src="./img/clipart2002867.png" alt="">
     </main>
   </div>
   <!--ABOUT SECTION -->
   <section class="about">
-    <h2>About us</h2>
+    <h2>Adquire your IOT</h2>
     <div class="divider"></div>
     <div class="about-content"   data-aos-duration="2000">
-      <img src="./img/second.png" alt="">
+      <img src="./img/kisspng-internet-of-things-gartner-electronics-data-internet-of-things-callcms-5c07315cdfd012.1698367315439752609167.png" alt="">
       <div class="about-info">
-        <h3>Place your title here</h3>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores ut, veritatis, aliquam distinctio explicabo tempore minus, blanditiis accusantium voluptatem quos doloremque nesciunt quia quasi. Ullam ea ab architecto eveniet blanditiis?</p>
+        <h3>You want to adquire your own Arduino Kit?</h3>
+        <p>In this Facebook Page you can find a lot of components for your own  arduino kit</p>
         <button class="btn-toBuy">Buy Now</button>
       </div>
     </div>
@@ -67,54 +65,54 @@
     <div class="divider"></div>
     <div class="container-products" data-aos-duration="">
       <article>
-        <img src="./img/productos/190198828613-1-sx-removebg-preview 1.png" alt="">
+        <img src="./img/productos/81itBMd1hzL._SL1500_.jpg" alt="">
         <div class="content-product-info">
           <div class="stars">
             <img src="./img/vectores/Frame 1.png" alt="">
             <img src="./img/vectores/Frame 1.png" alt="">
             <img src="./img/vectores/Frame 1.png" alt="">
           </div>
-          <h4>phosjl</h4>
+          <h4>Kit Arduino</h4>
+        </div>
+        <div class="content-price">
+          <h3 class="last-price">US $79,09</h3>
+          <h3 class="new-price">US $50,42</h3>
+        </div>
+        <div class="btn-content">
+          <button class="btn-product" src="https://www.amazon.com.mx/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/ref=asc_df_B01D8KOZF4/?tag=gledskshopmx-20&linkCode=df0&hvadid=295437569208&hvpos=&hvnetw=g&hvrand=18109007166004780230&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010000&hvtargid=pla-406302474425&psc=1">More info</button>
+        </div>
+      </article>
+      <article>
+        <img src="./img/productos/arduinounor3.png" alt="">
+        <div class="content-product-info">
+          <div class="stars">
+            <img src="./img/vectores/Frame 1.png" alt="">
+            <img src="./img/vectores/Frame 1.png" alt="">
+            <img src="./img/vectores/Frame 1.png" alt="">
+          </div>
+          <h4>Tarjetas Por Separado</h4>
         </div>
         <div class="content-price">
           <h3 class="last-price">US $20.99</h3>
-          <h3 class="new-price">US $10.99</h3>
+          <h3 class="new-price">US $17.99</h3>
         </div>
         <div class="btn-content">
           <button class="btn-product">More info</button>
         </div>
       </article>
       <article>
-        <img src="./img/productos/71tuneVA4hL 1.png" alt="">
+        <img src="./img/productos/varios-modelos.png" alt="">
         <div class="content-product-info">
           <div class="stars">
             <img src="./img/vectores/Frame 1.png" alt="">
             <img src="./img/vectores/Frame 1.png" alt="">
             <img src="./img/vectores/Frame 1.png" alt="">
           </div>
-          <h4>asdfasdf</h4>
+          <h4>Kit Placas</h4>
         </div>
         <div class="content-price">
-          <h3 class="last-price">US $40.99</h3>
-          <h3 class="new-price">US $20.99</h3>
-        </div>
-        <div class="btn-content">
-          <button class="btn-product">More info</button>
-        </div>
-      </article>
-      <article>
-        <img src="./img/productos/bluetooth.png" alt="">
-        <div class="content-product-info">
-          <div class="stars">
-            <img src="./img/vectores/Frame 1.png" alt="">
-            <img src="./img/vectores/Frame 1.png" alt="">
-            <img src="./img/vectores/Frame 1.png" alt="">
-          </div>
-          <h4>asdfar</h4>
-        </div>
-        <div class="content-price">
-          <h3 class="last-price">US $50.99</h3>
-          <h3 class="new-price">US $30.99</h3>
+          <h3 class="last-price">US $59.99</h3>
+          <h3 class="new-price">US $39.99</h3>
         </div>
         <div class="btn-content">
           <button class="btn-product">More info</button>
@@ -128,7 +126,7 @@
       <h2>Do you have question?</h2>
       <button class="read-more">Contact</button>
     </div>
-    <img src="./img/girl.png" alt="">
+    <img src="./img/pngwing.com.png" alt="">
   </div>
 
   <div class="banner" id="banner">
@@ -143,7 +141,32 @@
       <button class="btn-toBuy">To Buy</button>
     </div>
   </div>
-
+  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="..." alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
   <footer class="footer" id="contact">
     <div class="quicklinks">
     <h3 class="text-center">Quick Links</h3>
