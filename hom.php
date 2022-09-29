@@ -26,7 +26,7 @@
           <li><a href="#home">Home</a></li>
           <li><a href="#products">Products</a></li>
           <li><a href="#support">Support</a></li>
-          <li><a href="salir.php">Salir</a></li>
+          <li><a href="salir.php">Log-Out</a></li>
         </ul>
         <div class="menu-bar">
           <i class="fas fa-bars" id="menu-bar"></i>
